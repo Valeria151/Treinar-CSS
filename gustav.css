@@ -1,0 +1,31 @@
+
+
+.topo {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 3px solid;
+    padding: 8px;
+    background-color: rgba(253, 215, 0, 0.5);
+    color:brown ;
+    
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+.headline {
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.sub {
+    font-size: 20px;
+    color: #111;
+    
+}
+
+.img {}
+
