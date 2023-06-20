@@ -1,5 +1,11 @@
 body {
   margin: 0;
+ 
+  padding: 0;
+  height: 100vh; 
+  background-image: url('./galeria-klimt/arvore.jfif');
+  background-size: cover;
+  background-position: center;
 }
 
 .header {
@@ -22,6 +28,7 @@ body {
     text-align: center;
     justify-content: space-between;
     padding: 8px 60PX ;
+    background-color: rgba(255, 255, 255, 0.8);
 }
 
 h1 {
